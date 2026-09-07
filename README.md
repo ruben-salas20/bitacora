@@ -21,7 +21,10 @@ Registro diario de mi aprendizaje, cosas que investigo, hago o experimento. Un r
 ```
 Bitacora/
 └──<Año>/
-    └──<Mes>/
-        └──<Día>/
-            └──<Número registro>.md
+|    └──<Mes>/
+|        └──<Día>/
+|            └──<Número registro>.md
+└──<ejercicios>/
+     └──<semana>/
+             └──<Nombre ejercicio>
 ```
