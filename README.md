@@ -10,7 +10,9 @@ Registro diario de mi aprendizaje, cosas que investigo, hago o experimento. Un r
 ### **Qué hice:**
 ### **Qué esperaba:**
 ### **Qué pasó:**
+### **Por qué:**
 ### **Qué me llevo:**
+### **Honestidad:**
 ### **Preguntas abiertas:**
 ```
 
